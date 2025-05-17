@@ -1,5 +1,13 @@
 Game codes for Magic Blockers
 File is large MagicBlock beta1.0 full game export
+controls
+E- Attack 
+Q- Block
+Arrow keys- movement 
+Space bar-jump
+
+
+
 Magic Blockers - Game Controls Documentation
 
 Version: 1.0
