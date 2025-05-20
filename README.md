@@ -1,4 +1,8 @@
-Game codes for Magic Blockers
+Game codes for Magic Blockers above
+How to Install
+download "Magic Blocker webapp" to loacl
+
+
 File is large MagicBlock beta1.0 full game export
 
 P1 Controls
