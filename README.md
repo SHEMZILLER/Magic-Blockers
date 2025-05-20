@@ -1,6 +1,6 @@
-Game codes for Magic Blockers above
+Game codes for Magic Blockers Above
 How to Install
-download "Magic Blocker webapp" to loacl
+download "Magic Blocker webapp" to local
 
 
 File is large MagicBlock beta1.0 full game export
